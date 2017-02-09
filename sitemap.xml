@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.org/post/god-to-great/</loc>
+    <loc>https://thomastourrette.github.io/blog/post/god-to-great/</loc>
     <lastmod>2017-02-09T22:30:52+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/</loc>
+    <loc>https://thomastourrette.github.io/blog/post/</loc>
     <lastmod>2017-02-09T22:30:52+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://thomastourrette.github.io/blog/</loc>
     <lastmod>2017-02-09T22:30:52+01:00</lastmod>
     <priority>0</priority>
   </url>
