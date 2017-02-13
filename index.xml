@@ -1,26 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>TT&#39;s Blog </title>
+    <title>TT&#39;s Blog</title>
     <link>https://thomastourrette.github.io/blog/index.xml</link>
+    <description>Recent content on TT&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <author></author>
-    <rights>(C) 2017</rights>
-    <updated>2017-02-13 21:42:30 &#43;0100 CET</updated>
-
+    <lastBuildDate>Mon, 13 Feb 2017 21:42:30 +0100</lastBuildDate>
+    <atom:link href="https://thomastourrette.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>reetranceVersusThreadSafe</title>
+      <link>https://thomastourrette.github.io/blog/post/reetranceVersusThreadSafe/</link>
+      <pubDate>Mon, 13 Feb 2017 21:42:30 +0100</pubDate>
       
-        <item>
-          <title>reetranceVersusThreadSafe</title>
-          <link>https://thomastourrette.github.io/blog/post/reetranceVersusThreadSafe/</link>
-          <pubDate>Mon, 13 Feb 2017 21:42:30 CET</pubDate>
-          <author></author>
-          <guid>https://thomastourrette.github.io/blog/post/reetranceVersusThreadSafe/</guid>
-          <description>&lt;p&gt;Ceci est la première ligne de mon deuxième article.&lt;/p&gt;
+      <guid>https://thomastourrette.github.io/blog/post/reetranceVersusThreadSafe/</guid>
+      <description>&lt;p&gt;Ceci est la première ligne de mon deuxième article.&lt;/p&gt;
 </description>
-        </item>
-      
+    </item>
     
-
   </channel>
 </rss>
